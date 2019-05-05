@@ -11,3 +11,7 @@ This notebook calculates the overlap of answers given by all parties running for
 It displays the parties as a network, the layouting is done with a spring algorithm, where spring-force is proportional to the answer-overlap.
 
 Additionally a algorithm for finding clusters/hierarchy in networks has been used. 
+
+
+output of the sfpd-layout with the overlap as spring-constants: 
+![](sfdp_couplings.png)
