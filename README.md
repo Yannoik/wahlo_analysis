@@ -1,4 +1,8 @@
-# wahlo_analysis
+# Analysis of the wahlomat-data of the election in Bremen, Germany 2019
+
+(if the notebook is not shown in github, please visit: 
+https://nbviewer.jupyter.org/github/Yannoik/wahlo_analysis/blob/master/wahlomat.ipynb
+)
 
 This notebook calculates the overlap of answers given by all parties running for the election in Bremen 2019. 
 
