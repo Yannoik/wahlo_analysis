@@ -8,8 +8,8 @@ https://nbviewer.jupyter.org/github/Yannoik/wahlo_analysis/blob/master/wahlomat_
 This notebook calculates the overlap of answers given by all parties running for the election in Bremen 2019.
 
 It displays the parties as a network, the layout is done with a spring algorithm, where spring-force is proportional to the answer-overlap.
-
-Additionally an algorithm for finding clusters/hierarchy in networks has been used.
+  
+Additionally an algorithm for finding clusters/hierarchy in networks has been used.  
 sources:   
 Bremen: https://www.wahl-o-mat.de/bremen2019/PositionsvergleichBremen2019.pdf  
 EU-election: https://www.wahl-o-mat.de/europawahl2019/PositionsvergleichEuropawahl2019.pdf  
