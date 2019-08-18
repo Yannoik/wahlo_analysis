@@ -16,8 +16,8 @@ example 2: Here is the output of the sfpd-layout-algorithm with the overlap as s
 sources (starting with the most recent elections):   
 Sachsen-Election 2019: http://www.wahl-o-mat.de/sachsen2019/PositionsvergleichSachsen2019.pdf  
 Brandenburg-Election 2019: http://www.wahl-o-mat.de/brandenburg2019/Positionsvergleich-Brandenburg2019.pdf  
-Bremen: https://www.wahl-o-mat.de/bremen2019/PositionsvergleichBremen2019.pdf  
-EU-election: https://www.wahl-o-mat.de/europawahl2019/PositionsvergleichEuropawahl2019.pdf    
+Bremen-Election 2019: https://www.wahl-o-mat.de/bremen2019/PositionsvergleichBremen2019.pdf  
+European Parliament Election 2019: https://www.wahl-o-mat.de/europawahl2019/PositionsvergleichEuropawahl2019.pdf    
 
 
 
