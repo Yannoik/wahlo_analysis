@@ -6,18 +6,17 @@ To bring the positions of the parties to light, the federal ministry of politica
 Here we compare the answers of each party to the answers of the other parties and evalueate their overlap to find clusters of parties with the same set of positions. 
 For a decent visualization the graph-tool package is used (https://graph-tool.skewed.de/).
 
- 
-Additionally an algorithm for finding clusters/hierarchy in networks has been used.  
+example 1: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the brandenburg election, the percentages on edges show the ratio of identical answers:  
+![](brandenburg_network.png)  
+example 2: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the sachsen election, the percentages on edges show the ratio of identical answers:  
+![](sachsen_network.png)  
+
+
 sources (starting with the most recent elections):   
 Sachsen-Election 2019: http://www.wahl-o-mat.de/sachsen2019/PositionsvergleichSachsen2019.pdf  
 Brandenburg-Election 2019: http://www.wahl-o-mat.de/brandenburg2019/Positionsvergleich-Brandenburg2019.pdf  
 Bremen: https://www.wahl-o-mat.de/bremen2019/PositionsvergleichBremen2019.pdf  
 EU-election: https://www.wahl-o-mat.de/europawahl2019/PositionsvergleichEuropawahl2019.pdf    
-
-example 1: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the brandenburg election:  
-![](brandenburg_network.png)  
-example 2: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the sachsen election:  
-![](sachsen_network.png)  
 
 
 
