@@ -1,4 +1,4 @@
-# Analysis of the wahlomat-data of the election in Bremen, Germany 2019
+# Analysis of wahlomat-datasets for different elections in Germany
 
 (If the Jupyter-notebook is not shown in github, please visit:   
 https://nbviewer.jupyter.org/github/Yannoik/wahlo_analysis/blob/master/wahlomat.ipynb   
