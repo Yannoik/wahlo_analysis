@@ -11,8 +11,14 @@ It displays the parties as a network, the layout is done with a spring algorithm
   
 Additionally an algorithm for finding clusters/hierarchy in networks has been used.  
 sources:   
+new: 
+Sachsen-Election 2019: http://www.wahl-o-mat.de/sachsen2019/PositionsvergleichSachsen2019.pdf
+Brandenburg-Election 2019: http://www.wahl-o-mat.de/brandenburg2019/Positionsvergleich-Brandenburg2019.pdf
+
+old:
 Bremen: https://www.wahl-o-mat.de/bremen2019/PositionsvergleichBremen2019.pdf  
 EU-election: https://www.wahl-o-mat.de/europawahl2019/PositionsvergleichEuropawahl2019.pdf  
 
 As example: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants:
-![](sfdp_couplings.png)
+![](brandenburg_network.png)
+![](sachsen_network.png)
