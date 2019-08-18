@@ -2,7 +2,7 @@
 
 Elections are the foundation of modern democracies, but also bring some interesting dynamics with them. 
 To bring the positions of the parties to light, the [federal agency of political education](https://www.bpb.de/) runs the
-[wahl-o-mat](https://www.wahl-o-mat.de/), where answers of the participant are compared to the answers of the parties to show the overlap and give hints which party may support the participants positions most.
+[wahl-o-mat](https://www.wahl-o-mat.de/), where answers of the participant are compared to the answers of the parties to show the overlap and give hints which party represents the participants positions best.
 
 Here we compare the answers of each party to the answers of the other parties and evalueate their overlap to find clusters of parties with the same set of positions. 
 For a decent visualization the [graph-tool](https://graph-tool.skewed.de/) package is used.
