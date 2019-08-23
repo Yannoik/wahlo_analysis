@@ -7,9 +7,9 @@ To bring the positions of the parties to light, the [federal agency of political
 Here we compare the answers of each party to the answers of the other parties and evalueate their overlap to find clusters of parties with the same set of positions. 
 For a decent visualization the [graph-tool](https://graph-tool.skewed.de/) package is used.
 
-example 1: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the brandenburg election, the percentages on edges represent the ratio of identical answers (Overlap below 60% not shown):  
+example 1: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the **brandenburg election**, the percentages on edges represent the ratio of identical answers (Overlap below 60% not shown):  
 ![](brandenburg_network.png)  
-example 2: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the sachsen election, the percentages on edges represents the ratio of identical answers (Overlap below 60% not shown):  
+example 2: Here is the output of the sfpd-layout-algorithm with the overlap as spring-constants for the **sachsen election**, the percentages on edges represents the ratio of identical answers (Overlap below 60% not shown):  
 ![](sachsen_network.png)  
 
 
