@@ -23,7 +23,7 @@ European Parliament Election 2019: https://www.wahl-o-mat.de/europawahl2019/Posi
 
 
 
-If the Jupyter-notebook is not shown in github, please visit:   
+For interactive jupyter-notebooks you can use the following links:
 for the saxony-election 2019:  
 https://nbviewer.jupyter.org/github/Yannoik/wahlo_analysis/blob/master/wahlomat_sachsen_19.ipynb    
 for the brandenburg-election 2019:  
